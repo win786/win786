@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @win786
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer sciecne
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on beginner level code
 
 <!---
